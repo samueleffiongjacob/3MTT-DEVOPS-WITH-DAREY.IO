@@ -2,11 +2,11 @@
 
 ## Overview
 
-The **3-Month Training (3MTT)** is a government-backed initiative designed to bridge the skills gap in the technology sector and prepare young professionals for high-demand roles in cloud infrastructure and DevOps engineering. This program leverages the **Darey.io** platform to deliver world-class, hands-on training in DevOps practices and technologies.
+The **4-Month Training (3MTT)** is a government-backed initiative designed to bridge the skills gap in the technology sector and prepare young professionals for high-demand roles in cloud infrastructure and DevOps engineering. This program leverages the **Darey.io** platform to deliver world-class, hands-on training in DevOps practices and technologies.
 
 ## About 3MTT
 
-The 3-Month Training program is a flagship initiative sponsored by the Nigerian government to develop a skilled workforce in critical tech domains. The program focuses on:
+The 4-Month Training program is a flagship initiative sponsored by the Nigerian government to develop a skilled workforce in critical tech domains. The program focuses on:
 
 - **Practical, industry-relevant skills**
 - **Hands-on project-based learning**
@@ -54,7 +54,7 @@ By the end of this training, participants will be able to:
 ## Program Structure
 
 ### Duration
-- **3 Months** (12 weeks) of intensive training
+- **4 Months** (16 weeks) of intensive training
 - Mix of self-paced learning and live instructor-led sessions
 - Average commitment: 30-40 hours per week
 
